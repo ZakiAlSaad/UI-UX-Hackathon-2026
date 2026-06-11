@@ -1,26 +1,20 @@
-# 🏆 UI/UX Design Hackathon 2026 - 2nd Runners-up
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-Welcome to the showcase repository for my recent achievement at the **UI/UX Design Hackathon 2026**, organized by the Department of CSE & CSE Applied Computing Club at Varendra University.
+# Run and deploy your AI Studio app
 
-As part of **Team Golden Fail**, we focused on creating an intuitive, modern, and tech-forward user interface. Exploring smart home integration, we aimed for a clean aesthetic accented with vibrant cyan—balancing daily functionality with a sleek, futuristic feel.
+This contains everything you need to run your app locally.
 
-## 📜 Certificate of Achievement
+View your app in AI Studio: https://ai.studio/apps/1ce8253c-0104-404f-9ecb-e84688b39d0c
 
-Secured the **2nd Runners-up** position on May 14th, 2026.
+## Run Locally
 
-<img width="1920" height="1080" alt="UIUX Hackathon2nd" src="https://github.com/user-attachments/assets/5e590587-f61b-4da6-86f8-bb11d0095aa9" />
-
-
-## 🎨 Project Showcase
-
-Here is a look at the UI/UX design we submitted. The design features a secure login portal, a centralized home dashboard with quick controls, and a detailed device management screen that includes a live security feed. 
-
-<img width="5592" height="3680" alt="UIUX TEAM GOLDEN FAIL" src="https://github.com/user-attachments/assets/c1be3582-22af-48a3-b6ff-9c59f9d25cb3" />
+**Prerequisites:**  Node.js
 
 
----
-
-### 💻 About the Designer
-**S. M. Zaki Al Saad Marjan** *Founder & CEO, HypnotiXstudio | Freelance Full-Stack & Android Developer*
-
-Passionate about crafting seamless user experiences and exploring the intersection of modern design and emerging technologies.
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
