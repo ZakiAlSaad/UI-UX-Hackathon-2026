@@ -1,0 +1,8 @@
+{
+  "name": "Zaki's Portfolio",
+  "description": "A clean, portfolio-style layout for showcasing certificates and professional achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
